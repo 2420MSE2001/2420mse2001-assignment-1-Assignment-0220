@@ -36,7 +36,7 @@ jobs:
       with:
         test-name: "Problem1"
         command: |
-          cd problem1
+          cd Problem1
 
           python -m unittest test.py
 
@@ -53,7 +53,7 @@ jobs:
       with:
         test-name: "Problem2"
         command: |
-          cd problem2
+          cd Problem2
 
           python -m unittest test.py
 
@@ -70,7 +70,7 @@ jobs:
       with:
         test-name: "Problem3"
         command: |
-          cd problem3
+          cd Problem3
 
           python -m unittest test.py
 
@@ -87,7 +87,7 @@ jobs:
       with:
         test-name: "Problem4"
         command: |
-          cd problem4
+          cd Problem4
 
           python -m unittest test.py
 
@@ -104,7 +104,7 @@ jobs:
       with:
         test-name: "Problem5"
         command: |
-          cd problem5
+          cd Problem5
 
           python -m unittest test.py
 
